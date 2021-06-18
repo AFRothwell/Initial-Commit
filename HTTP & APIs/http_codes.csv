@@ -1,0 +1,5 @@
+﻿100,Information responses,https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#information_responses
+200,Successful responses,https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#successful_responses
+300,Redirection messages,https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#redirection_messages
+400,Client error responses,https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#client_error_responses
+500,Server error responses,https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#server_error_responses
